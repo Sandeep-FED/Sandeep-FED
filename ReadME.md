@@ -17,9 +17,13 @@ If you want to collaborate or connect with me, reach out me on my social handles
 
 Lets talk about my contributions:
 
-![](https://github-readme-stats.vercel.app/api?username=Sandeep-FED&show_icons=true&theme=github_dark_dimmed#gh-dark-mode-only)
+[![](https://streak-stats.demolab.com/?user=Sandeep-FED&theme=github_dark_dimmed&short_numbers=true#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
 
-![](https://github-readme-stats.vercel.app/api?username=Sandeep-FED&show_icons=true&theme=default_repocard#gh-light-mode-only)
+[![](https://streak-stats.demolab.com/?user=Sandeep-FED&theme=github_dark_dimmed&short_numbers=true#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
+
+[![](https://github-readme-stats.vercel.app/api?username=Sandeep-FED&show_icons=true&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![](https://github-readme-stats.vercel.app/api?username=Sandeep-FED&show_icons=true&theme=default_repocard#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-FED&layout=compact&theme=github_dark_dimmed&hide=Assembly,Makefile,Perl,Shell#gh-dark-mode-only)
 
