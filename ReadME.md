@@ -31,11 +31,11 @@ Lets talk about my contributions:
 
 ![](https://github-contributor-stats.vercel.app/api?username=Sandeep-FED&limit=4&order_by=contributions&theme=github_dark_dimmed&combine_all_yearly_contributions=true#gh-dark-mode-only)
 
-![](https://github-contributor-stats.vercel.app/api?username=Sandeep-FED&limit=5&theme=default_repocard&combine_all_yearly_contributions=true#gh-light-mode-only)
+[![](https://github-contributor-stats.vercel.app/api?username=Sandeep-FED&limit=5&theme=default_repocard&combine_all_yearly_contributions=true#gh-light-mode-only)]
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=snippetguy&theme=github_dark_dimmed#gh-dark-mode-only)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=snippetguy&theme=github_dark_dimmed#gh-dark-mode-only)]
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=snippetguy&theme=default_repocard#gh-light-mode-only)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=snippetguy&theme=default_repocard#gh-light-mode-only)]
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
