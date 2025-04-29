@@ -17,9 +17,17 @@ If you want to collaborate or connect with me, reach out me on my social handles
 
 Lets talk about my contributions:
 
-[![](https://streak-stats.demolab.com/?user=Sandeep-FED&theme=github_dark_dimmed&short_numbers=true#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
-
-[![](https://streak-stats.demolab.com/?user=Sandeep-FED&theme=github_dark_dimmed&short_numbers=true#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com/?user=Sandeep-FED&theme=github_dark_dimmed&short_numbers=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com/?user=Sandeep-FED&theme=default_repocard&short_numbers=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://streak-stats.demolab.com/?user=Sandeep-FED&short_numbers=true" />
+</picture>
 
 [![](https://github-readme-stats.vercel.app/api?username=Sandeep-FED&show_icons=true&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
