@@ -29,9 +29,17 @@ Lets talk about my contributions:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-FED&layout=compact&theme=default_repocard&hide=Assembly,Makefile,Perl,Shell#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-![](https://github-contributor-stats.vercel.app/api?username=Sandeep-FED&limit=4&order_by=contributions&theme=github_dark_dimmed&combine_all_yearly_contributions=true#gh-dark-mode-only)
-
-[![](https://github-contributor-stats.vercel.app/api?username=Sandeep-FED&limit=5&theme=default_repocard&combine_all_yearly_contributions=true#gh-light-mode-only)]
+<picture>
+  <source
+    srcset="https://github-contributor-stats.vercel.app/api?username=Sandeep-FED&limit=4&order_by=contributions&theme=github_dark_dimmed&combine_all_yearly_contributions=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-contributor-stats.vercel.app/api?username=Sandeep-FED&limit=5&theme=default_repocard&combine_all_yearly_contributions=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Sandeep-FED&limit=5&combine_all_yearly_contributions=true" />
+</picture>
 
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=snippetguy&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
