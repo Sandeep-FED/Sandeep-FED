@@ -49,9 +49,9 @@ Lets talk about my contributions:
   <img src="https://github-contributor-stats.vercel.app/api?username=Sandeep-FED&limit=5&combine_all_yearly_contributions=true" />
 </picture>
 
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=snippetguy&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=Snippetguy&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=snippetguy&theme=default_repocard#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=Snippetguy&theme=default_repocard#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandeep-FED/Sandeep-FED/output/github-contribution-grid-snake-dark.svg" />
