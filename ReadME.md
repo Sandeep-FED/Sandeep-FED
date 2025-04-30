@@ -69,7 +69,7 @@ I’m an active contributor to the Microsoft 365 PnP community since 2023, and I
 
 <picture>
   <source
-    srcset="https://streak-stats.demolab.com/?user=Sandeep-FED&theme=github_dark_dimmed&short_numbers=true"
+    srcset="https://streak-stats.demolab.com/?user=Sandeep-FED&theme=github-dark-blue&short_numbers=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
