@@ -5,7 +5,7 @@
 
 # 👋 Hey, I'm Sandeep!
 
-I’m a senior software engineer at Ernst & Young.
+Microsoft 365 Developer @ KLA Corporation
 
 You know what my hobby is? Coding without getting tired...seriously, I do it almost all the time.
 
